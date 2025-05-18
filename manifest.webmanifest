@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "/Users/ozantank/Desktop/Software/WEB/EcoPlate/images/loggo.jpeg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/Users/ozantank/Desktop/Software/WEB/EcoPlate/images/loggo.jpeg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

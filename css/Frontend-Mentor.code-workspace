@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../../Frontend-Mentor"
+	},
+	{
+		"path": "../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "WEB"
+  }
+}
